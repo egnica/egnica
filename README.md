@@ -1,4 +1,8 @@
-# 👋 Hey there, I’m Nicholas Egner
+<p align="center">
+  <a href="https://nicholasegner.com">
+    <img src="https://latestartbucket.s3.us-east-2.amazonaws.com/nick-logo.svg" width="300" alt="Nicholas Egner Logo" />
+  </a>
+</p> Hey there, I’m Nicholas Egner
 
 Welcome to my GitHub! I’m a Minneapolis-based web developer blending clean design with functional code one build at a time.
 
