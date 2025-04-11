@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://nciholasegner.s3.us-east-2.amazonaws.com/images/ne-white.svg" width="300" alt="Nicholas Egner Logo" />
+  <a href="https://nicholasegner.com">
+  <img src="https://nciholasegner.s3.us-east-2.amazonaws.com/images/ne-white.svg" width="200" alt="Nicholas Egner Logo" />
+  </a>
 </p>
 Hey there, I’m Nicholas Egner
 
