@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://nicholasegner.com">
-    <img src="https://latestartbucket.s3.us-east-2.amazonaws.com/nick-logo.svg" width="300" alt="Nicholas Egner Logo" />
+    <img src="[https://latestartbucket.s3.us-east-2.amazonaws.com/nick-logo.svg](https://nciholasegner.s3.us-east-2.amazonaws.com/images/NE-blue.svg)" width="300" alt="Nicholas Egner Logo" />
   </a>
 </p> Hey there, I’m Nicholas Egner
 
