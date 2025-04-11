@@ -1,6 +1,6 @@
-
-  <img src="https://nciholasegner.s3.us-east-2.amazonaws.com/images/NE-blue.svg" width="300" alt="Nicholas Egner Logo" />
-
+<p align="center">
+  <img src="https://nciholasegner.s3.us-east-2.amazonaws.com/images/ne-white.svg" width="300" alt="Nicholas Egner Logo" />
+</p>
 Hey there, I’m Nicholas Egner
 
 Welcome to my GitHub! I’m a Minneapolis-based web developer blending clean design with functional code one build at a time.
