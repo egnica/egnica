@@ -8,7 +8,7 @@ I'm building out a **Freelance Starter Stack** focused on modern, scalable, and 
 - **Frontend**: Next.js, React, CSS Modules, Framer Motion
 - **Backend**: REST APIs, MongoDB (Atlas), AWS (S3, Amplify, DynamoDB), Node.js
 - **Tooling & Services**: Resend (email), Stripe (payments), Sanity (CMS), Auth0 (auth), Sentry (monitoring)
-- **Design**: Figma, Adobe Suite (Photoshop, Premiere Pro, After Effects)
+- **Design**: Adobe Suite (Photoshop, Premiere Pro, After Effects)
 
 ## 🛠️ What I’m Working On
 - ✍️ Writing blog posts at [Latest Art Dev](https://latestartdev.com) about learning web tech from the ground up
