@@ -13,7 +13,7 @@ I'm building out a **Freelance Starter Stack** focused on modern, scalable, and 
 ## 🛠️ What I’m Working On
 - ✍️ Writing blog posts at [Latest Art Dev](https://latestartdev.com) about learning web tech from the ground up
 - 🎞️ Expanding my services to include **video production** and **brand identity design** for entrepreneurs
-- - 🎯 Building **[GIGnnovate.com](https://gignnovate.com/)** (Not live yet.... working on it) – a creative tech studio for side hustlers, small businesses, and professionals needing a solid digital presence
+- 🎯 Building **[GIGnnovate.com](https://gignnovate.com/)** (Not live yet.... working on it) – a creative tech studio for side hustlers, small businesses, and professionals needing a solid digital presence
 
 ## 🔍 Current Interests
 - Streamlining full-stack apps using **MongoDB** and **Next.js**
