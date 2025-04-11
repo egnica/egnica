@@ -22,8 +22,8 @@ I'm building out a **Freelance Starter Stack** focused on modern, scalable, and 
 
 ## 🎨 Fun Stuff
 - Film nerd at heart — if Kubrick directed it, I’ve certanly rewatched it.
-- Minnesota Sprots nut - **SKOL**
-- Passionate about arts education, thoughtful UX, and finding flow in the creative process
+- Minnesota Sports nut - **SKOL**
+- Passionate about finding flow in the creative process
 
 ---
 
