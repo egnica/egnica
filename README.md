@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Nicholas Egner
 
-Welcome to my GitHub! I’m a Minneapolis-based web developer blending clean design with functional code—one build at a time.
+Welcome to my GitHub! I’m a Minneapolis-based web developer blending clean design with functional code one build at a time.
 
 ## 💻 My Stack
 I'm building out a **Freelance Starter Stack** focused on modern, scalable, and client-friendly web solutions:
